@@ -1,0 +1,7 @@
+# GUI / 核心依赖
+PySide6-Essentials>=6.5
+pyserial>=3.5
+numpy>=1.24
+
+# 可选：没有 Qt 时用 Pillow 解码 JPEG
+# pillow>=10.0
